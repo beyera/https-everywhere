@@ -11,6 +11,9 @@
             "rules.js",
             "store.js",
             "util.js",
+            "pako_inflate.min.js",
+            "keys.js",
+            "update.js",
             "background.js",
             "incognito.js"
         ]
